@@ -77,4 +77,4 @@ RUN make rack-sdk-all
 
 RUN JOBS=$JOBS make cppcheck
 
-RUN rm MacOSX12.3.sdk.tar.*
+#RUN rm MacOSX12.3.sdk.tar.*

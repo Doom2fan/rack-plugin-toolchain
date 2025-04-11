@@ -146,7 +146,7 @@ toolchain-clean:
 # Rack SDK
 
 
-rack-sdk-all: rack-sdk-mac-x64 rack-sdk-mac-arm64 rack-sdk-win-x64 rack-sdk-lin-x64
+rack-sdk-all: rack-sdk-win-x64 rack-sdk-lin-x64
 
 
 rack-sdk-mac-x64 := Rack-SDK-mac-x64
